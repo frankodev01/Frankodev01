@@ -23,7 +23,7 @@ Work with Figma, animations, and reusable UI systems
 
 Frontend: React, JavaScript, HTML5, CSS3
 
-Tools: Git & GitHub, Figma, VS Code,
+Tools: Git & GitHub, Figma, VS Code
 
 Other: UI/UX basics, responsive design, animations, component systems
 
