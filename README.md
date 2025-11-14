@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I’m Tornike (FrankoDev)
 
-<!--
-**frankodev01/Frankodev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dedicated Front-End Developer focused on building clean, modern and responsive web interfaces.
+I love creating smooth user experiences and turning designs into functional digital products.
 
-Here are some ideas to get you started:
+🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build responsive, fast and accessible UI
+
+Create modern layouts using HTML, CSS, JavaScript
+
+Develop interactive components with React
+
+Design pixel-perfect interfaces
+
+Work with Figma, animations, and reusable UI systems
+
+🧰 Tech Stack
+
+Frontend: React, JavaScript (ES6+), TailwindCSS, HTML5, CSS3
+Tools: Git & GitHub, Figma, VS Code, Linux, REST APIs
+Other: UI/UX basics, responsive design, animations, component systems
+
+📈 Currently Working On
+
+Improving advanced React & UI patterns
+
+Building personal projects and custom components
+
+Exploring motion design & modern design systems
+
+🌍 Connect With Me
+
+📫 Email: tokovalishvili12@gmail.com
+
+🔗 Portfolio: soon.com
