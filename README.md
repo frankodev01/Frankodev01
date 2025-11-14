@@ -22,7 +22,9 @@ Work with Figma, animations, and reusable UI systems
 🧰 Tech Stack
 
 Frontend: React, JavaScript, HTML5, CSS3
+
 Tools: Git & GitHub, Figma, VS Code,
+
 Other: UI/UX basics, responsive design, animations, component systems
 
 📈 Currently Working On
