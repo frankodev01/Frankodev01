@@ -1,4 +1,7 @@
-![Banner]([IMAGE_URL_HERE](https://i.pinimg.com/736x/3f/6a/02/3f6a02c340fb169ac61a9477c29122c7.jpg))
+<p align="center">
+  <img src="https://i.pinimg.com/736x/3f/6a/02/3f6a02c340fb169ac61a9477c29122c7.jpg" alt="FrancoDev Banner" width="600"/>
+</p>
+
 👋 Hi, I’m Tornike (FrankoDev)
 
 I’m a dedicated Front-End Developer focused on building clean, modern and responsive web interfaces.
