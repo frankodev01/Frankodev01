@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3f/6a/02/3f6a02c340fb169ac61a9477c29122c7.jpg" alt="FrancoDev Banner" width="600"/>
+  <img src="https://i.pinimg.com/736x/3f/6a/02/3f6a02c340fb169ac61a9477c29122c7.jpg" alt="FrankoDev Banner" width="600"/>
 </p>
 
 👋 Hi, I’m Tornike (FrankoDev)
