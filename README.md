@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html" alt="FrankoDev Banner" width="600"/>
+[სერტიფიკატი.pdf](https://github.com/user-attachments/files/23965695/default.pdf)
 </p>
 
 👋 Hi, I’m Tornike (FrankoDev)
